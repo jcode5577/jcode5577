@@ -12,17 +12,15 @@
 # 💫About Me :
 🔭 I’m currently working on my github page :https://github.com/jcode5577
   
-🌱 I’m currently learning : in depth REACT
+🌱 I’m currently learning : in depth React
 
-  👯 I’m looking to collaborate on my webpage
+  👯 I’m looking to collaborate with a good team and further my knowledge of Web Development.
 
-  🤔 I’m Not looking for help
-
-  💬 Ask me about for any help
+  💬 I am free to answer any questions in regards to my work and passion of coding
 
   📫 How to reach me:  
   Mail me at "www.john.hamilton@gmail.com" or 
-  scroll to bottom of the page and find Contact ME
+  scroll to bottom of the page and find Socials Section
 
 
 
