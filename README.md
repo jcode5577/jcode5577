@@ -22,12 +22,12 @@
 
   📫 How to reach me:  
   Mail me at "www.john.hamilton@gmail.com" or 
-  scroll to bottom of the page of "" and find CONTACT ME
-
-⚡ Fun fact: 7 out of 10 consumers find a company via the blog
+  scroll to bottom of the page and find Contact ME
 
 
-## 🌐Socials
+
+
+
 
 
 # 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
@@ -39,7 +39,7 @@
 
 
 
-
+## 🌐Socials
 
 
 
