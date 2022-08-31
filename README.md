@@ -7,7 +7,7 @@
 </p>
 
 ---
-<div align="left">
+<div align="center">
   
 # 💫About Me :
 🔭 I’m currently working on passion projects.
