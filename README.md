@@ -10,9 +10,9 @@
 <div align="center">
   
 # 💫About Me :
-🔭 I’m currently working on my github page :https://github.com/jcode5577
+🔭 I’m currently working on passion projects.
   
-🌱 I’m currently learning : in depth React,
+🌱 I’m currently learning : in depth React.
 
   👯 I’m looking to collaborate with a good team and further my knowledge of Web Development.
 
