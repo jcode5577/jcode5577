@@ -23,7 +23,7 @@
   scroll to bottom of the page and find Socials Section.
   
 
-  Learn More About Me
+ ### Learn More About Me
   [my-portfolio](https://my-personal-portfolio5577.herokuapp.com/)
 
 
