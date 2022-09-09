@@ -24,7 +24,7 @@
   
 
  ### Learn More About Me
-  [my-portfolio](https://my-personal-portfolio5577.herokuapp.com/)
+  [My Portfolio](https://my-personal-portfolio5577.herokuapp.com/)
 
 
 
