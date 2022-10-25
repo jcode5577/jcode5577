@@ -24,7 +24,7 @@
   
 
  ### Learn More About Me
-  [My Portfolio](https://my-personal-portfolio5577.herokuapp.com/)
+  [My Portfolio](https://john-hamilton-5577.herokuapp.com/)
 
 
 
