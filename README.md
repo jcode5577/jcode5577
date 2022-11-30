@@ -19,7 +19,7 @@
   💬 I am free to answer any questions in regards to my work and passion of coding
 
   📫 How to reach me:  
-  Mail me at "www.john.hamilton@gmail.com" or 
+  Mail me at "www.john.hamilton5577@gmail.com" or 
   scroll to bottom of the page and find Socials Section.
   
 
